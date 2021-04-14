@@ -1,7 +1,7 @@
 # test.txt
 test
 
-#Sub in your name
+# Sub in your name
 git config --global user.name "sknapp211"
 
 # Replace username w your wwu username
